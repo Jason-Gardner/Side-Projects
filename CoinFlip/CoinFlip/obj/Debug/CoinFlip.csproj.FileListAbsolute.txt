@@ -1,0 +1,7 @@
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb

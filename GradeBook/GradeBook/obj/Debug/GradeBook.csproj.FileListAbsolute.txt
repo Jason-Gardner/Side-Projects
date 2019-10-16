@@ -1,0 +1,7 @@
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\GradeBook\GradeBook\obj\Debug\GradeBook.pdb

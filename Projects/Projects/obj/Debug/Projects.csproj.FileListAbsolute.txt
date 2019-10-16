@@ -1,0 +1,7 @@
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Projects\Projects\obj\Debug\Projects.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\bin\Debug\Collatz.exe.config
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\bin\Debug\Collatz.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\bin\Debug\Collatz.pdb
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\obj\Debug\Collatz.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\obj\Debug\Collatz.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\obj\Debug\Collatz.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\Collatz\Collatz\obj\Debug\Collatz.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\bin\Debug\StringFun.exe.config
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\bin\Debug\StringFun.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\bin\Debug\StringFun.pdb
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\obj\Debug\StringFun.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\obj\Debug\StringFun.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\obj\Debug\StringFun.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Fun Projects\StringFun\StringFun\obj\Debug\StringFun.pdb

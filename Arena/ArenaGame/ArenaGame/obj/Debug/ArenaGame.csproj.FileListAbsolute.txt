@@ -1,0 +1,7 @@
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\bin\Debug\ArenaGame.exe.config
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\bin\Debug\ArenaGame.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\bin\Debug\ArenaGame.pdb
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\obj\Debug\ArenaGame.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\obj\Debug\ArenaGame.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\obj\Debug\ArenaGame.exe
+C:\Users\Jason Gardner\Documents\Projects\Fun Stuff\Arena\ArenaGame\ArenaGame\obj\Debug\ArenaGame.pdb
